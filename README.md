@@ -4,6 +4,7 @@
 - linear Regression
 - Log Regression
 ## Unsupervised Learning
+- Kmeans
 - Cosine Similarity
 - Distance Measurement
 ## Ensemble
